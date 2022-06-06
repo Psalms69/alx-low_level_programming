@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * main - Entry point
+ * Description: prints "\"prints exactly with proper grammar, but the outcome is a piece of art"
+ * Return: 0
+ */
 
 int main(void)
 {
