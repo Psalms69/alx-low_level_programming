@@ -1,12 +1,14 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: prints "\"prints exactly with proper grammar, but the outcome is a piece of art"
+ * Description: prints " use print f"
  * Return: 0
  */
 
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
-	return (0);
+printf("with proper grammar, but the outcome is a piece of art,\n");
+return (0);
 }
+
+
