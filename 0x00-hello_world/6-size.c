@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * Main - Entry point
- * Description : prints the size of various types on the computer
- * return 0
+ * main - Prints sized of characters
+ *
+ *Return: Always 0 (success)
  */
 int main(void)
 {
