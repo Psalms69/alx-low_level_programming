@@ -1,4 +1,4 @@
-#include "header.h"
+#include "main.h"
 
 /**
  * _strncpy - Copies at most an inputted number
@@ -24,3 +24,4 @@ char *_strncpy(char *dest, char *src, int n)
 
 	return (dest);
 }
+
