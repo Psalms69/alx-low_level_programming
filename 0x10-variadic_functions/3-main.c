@@ -1,5 +1,4 @@
 #include "variadic_functions.h"
-
 /**
  * main - check the code for ALX School students.
  *
@@ -10,4 +9,3 @@ int main(void)
     print_all("ceis", 'H', 0, "lberton");
     return (0);
 }
-
