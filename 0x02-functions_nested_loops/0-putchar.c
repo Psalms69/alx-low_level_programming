@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
- * _putchar - writes the character c to stdout
- * @c: The character to print putchar
- * Return: On success 1.
+ * main - Entry point
+ * Description prints '_putchar/n'
+ * Return: On success 0.
  */
 int main(void)
 {
