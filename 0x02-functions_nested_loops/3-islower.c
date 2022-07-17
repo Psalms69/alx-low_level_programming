@@ -1,6 +1,4 @@
 #include "main.h"
-
-
 /**
  * _islower - Entry point
  * Description: checks is a character is lowercase
@@ -9,9 +7,7 @@
  */
 int _islower(int c)
 {
-int i = 'a';
-for (i = 'a'; i <= 'z'; i++)
-if (c == i)
+if (c >= 'a'&& c <= 'z')
 {
 return (1);
 }
@@ -19,12 +15,12 @@ else
 {
 return (0);
 }
-return c;
 }
 int main ()
 {
 int _islower(int c);
 return 0;
 }
+
 
 
